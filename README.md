@@ -13,9 +13,6 @@ after experimental stroke in rats**. This repository contains the analysis pipel
 - [Usage](#usage)
 - [Outputs](#outputs)
 - [Interpretation notes](#interpretation-notes)
-- [Citation](#citation)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
